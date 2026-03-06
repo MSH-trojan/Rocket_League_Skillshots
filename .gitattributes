@@ -1,0 +1,3 @@
+# Reduce merge conflicts in text-first project metadata/docs
+*.md merge=union
+.gitignore merge=union
